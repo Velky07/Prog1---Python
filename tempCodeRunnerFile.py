@@ -1,0 +1,1 @@
+op = int(input("\nERRO: Opção inválida!\nDigite 1 para continuar ou 0 para sair: "))
